@@ -1,1 +1,1 @@
-React project "Random quote machine"
+React project "Markdown Previewer"
